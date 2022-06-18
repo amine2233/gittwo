@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "libgit2-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/amine2233/libgit2-spm.git",
+      "state" : {
+        "branch" : "feature/add-macos",
+        "revision" : "9bd0ed7d540dccbfa4c9f30ea042fe9ee515b732"
+      }
+    }
+  ],
+  "version" : 2
+}
